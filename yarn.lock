@@ -5833,7 +5833,7 @@ __metadata:
     param-case: 3.0.4
     pascalcase: 1.0.0
     pluralize: 8.0.0
-    prettier: 2.5.1
+    prettier: 2.6.0
     prisma: 3.11.0
     prompts: 2.4.2
     rimraf: 3.0.2
@@ -5869,7 +5869,7 @@ __metadata:
     jest: 27.5.1
     jscodeshift: 0.13.1
     node-fetch: 2.6.7
-    prettier: 2.5.1
+    prettier: 2.6.0
     tasuku: 1.0.2
     tempy: 1.0.1
     toml: 3.0.0
@@ -5975,7 +5975,7 @@ __metadata:
     eslint-plugin-react: 7.29.4
     eslint-plugin-react-hooks: 4.3.0
     jest: 27.5.1
-    prettier: 2.5.1
+    prettier: 2.6.0
     typescript: 4.6.2
   languageName: unknown
   linkType: soft
@@ -6086,7 +6086,7 @@ __metadata:
     graphql-tag: 2.12.6
     jest: 27.5.1
     kill-port: 1.6.1
-    prettier: 2.5.1
+    prettier: 2.6.0
     rimraf: 3.0.2
     string-env-interpolation: 1.0.1
     systeminformation: 5.11.8
@@ -24257,12 +24257,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.5.1, prettier@npm:^2.0.1, prettier@npm:^2.2.1":
-  version: 2.5.1
-  resolution: "prettier@npm:2.5.1"
+"prettier@npm:2.6.0, prettier@npm:^2.0.1, prettier@npm:^2.2.1":
+  version: 2.6.0
+  resolution: "prettier@npm:2.6.0"
   bin:
     prettier: bin-prettier.js
-  checksum: fa9750193b3fcdb4bd54ba4e57996d335de4cd492d277539b6ffb6d146c8b6d3c3dc264b75021914c99c91574643637f607da08ef4588ef30a7b78d14326f470
+  checksum: aa29412e52be673e1e63ceb17eb6bbbec5a2d6fd126f66c31a935a2d35463f8ba28bc54b20cb1e89712cb3928ef60d27f53174e99a5222fbd414ba654929d693
   languageName: node
   linkType: hard
 

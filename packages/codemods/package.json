@@ -34,7 +34,7 @@
     "jest": "27.5.1",
     "jscodeshift": "0.13.1",
     "node-fetch": "2.6.7",
-    "prettier": "2.5.1",
+    "prettier": "2.6.0",
     "tasuku": "1.0.2",
     "toml": "3.0.0",
     "yargs": "16.2.0"
